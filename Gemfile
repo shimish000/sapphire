@@ -64,3 +64,23 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'pry-rails'
 gem 'compass-rails', '3.1.0'
 gem 'sprockets', '3.7.2'
+
+gem 'jquery-rails'
+gem 'erb2haml'
+gem'font-awesome-sass'
+
+#devise
+gem 'devise'
+gem 'devise-i18n'
+gem 'devise-i18n-views'
+
+#pay.jp
+gem 'payjp'
+gem 'dotenv-rails'
+gem 'gon'
+
+#アクティブハッシュ
+gem 'active_hash'
+
+# パンくず
+gem 'ancestry'
